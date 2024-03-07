@@ -1,1 +1,14 @@
-# numpy_tutorial
+# numpy quck tutorial
+- ndarray
+- memoryview
+- copy and view
+- ndarray create methods
+- copy
+- stack
+- reshape
+- indexing
+- advance indexing
+- vector
+- math
+- statistic
+- matrix
